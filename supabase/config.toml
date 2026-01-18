@@ -1,0 +1,13 @@
+project_id = "tgqykvwpzisopzviasvp"
+
+[functions.angel-chat]
+verify_jwt = false
+
+[functions.process-camly-claim]
+verify_jwt = false
+
+[functions.generate-video]
+verify_jwt = false
+
+[functions.upload-to-r2]
+verify_jwt = false
